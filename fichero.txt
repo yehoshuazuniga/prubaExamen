@@ -3,12 +3,16 @@ modificion 2 master
 modificion 3 master
 modificacion 1 exp antes de 4 master
 modificacion 1 experimento
-<<<<<<< HEAD
 modificacion 2 exp antes de 5 master
+modificion 4  master
+modificacion 5 master
 modificacion 3 exp antes de 6 master
+modificacion 6 master
+<<<<<<< HEAD
 modificacion 4 exp antes de 7 master
-=======
-=======
+======
 modificion 3  master
 >>>>>>> 230b1b2... commit master 5
 >>>>>>> 620a922... commit 1 experimento
+=======
+>>>>>>> 2bcbd6f... commit 6 master
